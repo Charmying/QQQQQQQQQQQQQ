@@ -1,6 +1,6 @@
 # QQQQQQQQQQQQQ
 
-[跳到安裝方式](https://github.com/Charmying/QQQQQQQQQQQQQ?tab=readme-ov-file#%E5%AE%89%E8%A3%9D%E6%96%B9%E5%BC%8F-install-guide)
+[跳到安裝方式](#安裝方式 (Install Guide))
 
 QAZWSXEDCRFVTGBYHNUJMIK
 QAZWSXEDCRFVTGBYHNUJMIK
