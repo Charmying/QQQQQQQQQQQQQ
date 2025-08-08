@@ -1,6 +1,6 @@
 # QQQQQQQQQQQQQ
 
-[跳到安裝方式](#安裝方式 (Install Guide))
+[跳到安裝方式](#安裝方式-install-guide)
 
 QAZWSXEDCRFVTGBYHNUJMIK
 QAZWSXEDCRFVTGBYHNUJMIK
